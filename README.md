@@ -5,11 +5,11 @@ Why create a new theme? While deeply appreciating oldworld.nvim's approach to ey
 
 ## 📷 Preview
 
-[Preview image would go here]
+<img src="./assets/screenshot.png" alt="screenshot">
 
 ## 🎨 Palette
 
-[Palette image would go here]
+<img src="./assets/palette.svg" alt="OldTale color palette">
 
 ## 📦 Installation
 
@@ -89,11 +89,7 @@ Contributions are welcome! Feel free to open issues or submit PRs for any improv
 
 ## 🎙️ Acknowledgements
 
-[oldworld.nvim](https://github.com/dgox16/oldworld.nvim) for providing an excellent base theme that prioritizes eye comfort
-[mellow.nvim](https://github.com/mellow-theme/mellow.nvim) for the original inspiration and color philosophy
+- [oldworld.nvim](https://github.com/dgox16/oldworld.nvim) for providing an excellent base theme that prioritizes eye comfort
+- [mellow.nvim](https://github.com/mellow-theme/mellow.nvim) for the original inspiration and color philosophy
 
 This theme builds upon the great work done by both [oldworld.nvim](https://github.com/dgox16/oldworld.nvim) and [mellow.nvim](https://github.com/mellow-theme/mellow.nvim), aiming to provide another option for developers who prioritize comfortable viewing during long coding sessions.
-
-```
-
-```
