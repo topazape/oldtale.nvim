@@ -1,7 +1,8 @@
 # OldTale.nvim
 
-A Neovim colorscheme that preserves your eyes while coding. OldTale is a theme derived from [oldworld.nvim](https://github.com/dgox16/oldworld.nvim), which itself was inspired by [mellow.nvim](https://github.com/mellow-theme/mellow.nvim). While maintaining the spirit of comfortable viewing, OldTale introduces subtle adjustments to the color palette and additional plugin integrations.
-Why create a new theme? While deeply appreciating oldworld.nvim's approach to eye comfort, I wanted to make slight adjustments to better suit my personal preferences, particularly in syntax highlighting and UI elements.
+OldTale is a Neovim colorscheme focused on visual comfort, inspired by OldWorld.nvim, with subtle adjustments tailored to personal preferences. While maintaining the gentle color palette of OldWorld.nvim, it slightly increases the contrast to enhance readability and eye comfort, without sacrificing the soothing nature of the theme. Additionally, OldTale inherits the essence of mellow.nvim, while making fine-tuned adjustments to syntax highlighting and UI elements.
+
+The reason for creating this new theme is that, although I deeply appreciated the visual comfort provided by OldWorld.nvim, I wanted to make small adjustments to better suit my personal preferences, especially in terms of syntax highlighting and UI elements.
 
 ## 📷 Preview
 
@@ -17,7 +18,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-    "yourusername/oldtale.nvim",
+    "topazape/oldtale.nvim",
     lazy = false,
     priority = 1000,
 }
@@ -28,7 +29,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 Using lua:
 
 ```lua
-luaCopyvim.cmd.colorscheme("oldtale")
+vim.cmd.colorscheme("oldtale")
 ```
 
 ## ⚙️ Configuration
