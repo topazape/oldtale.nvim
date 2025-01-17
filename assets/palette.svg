@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#141415"/>
+
+  <!-- Title -->
+  <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">OldTale Color Palette</text>
+
+  <!-- Background and Grays -->
+  <g transform="translate(40, 80)">
+    <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Backgrounds &amp; Grays</text>
+    <rect x="0" y="10" width="60" height="30" fill="#121213"/>
+    <rect x="70" y="10" width="60" height="30" fill="#141415"/>
+    <rect x="140" y="10" width="60" height="30" fill="#16161a"/>
+    <rect x="210" y="10" width="60" height="30" fill="#1a1a1c"/>
+    <rect x="280" y="10" width="60" height="30" fill="#252528"/>
+    <rect x="350" y="10" width="60" height="30" fill="#2d2d31"/>
+    <rect x="420" y="10" width="60" height="30" fill="#363639"/>
+    <rect x="490" y="10" width="60" height="30" fill="#3d3b40"/>
+    <rect x="560" y="10" width="60" height="30" fill="#504d54"/>
+
+    <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">bg_dark</text>
+    <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">bg</text>
+    <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">gray0</text>
+    <text x="210" y="55" fill="#666370" font-family="monospace" font-size="10">gray1</text>
+    <text x="280" y="55" fill="#666370" font-family="monospace" font-size="10">gray2</text>
+    <text x="350" y="55" fill="#666370" font-family="monospace" font-size="10">gray3</text>
+    <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">gray4</text>
+    <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">gray5</text>
+    <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">gray6</text>
+  </g>
+
+  <!-- Foregrounds -->
+  <g transform="translate(40, 180)">
+    <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Foregrounds</text>
+    <rect x="0" y="10" width="60" height="30" fill="#b4b1ba"/>
+    <rect x="70" y="10" width="60" height="30" fill="#aaa7b0"/>
+    <rect x="140" y="10" width="60" height="30" fill="#9a97a0"/>
+    <rect x="210" y="10" width="60" height="30" fill="#868390"/>
+    <rect x="280" y="10" width="60" height="30" fill="#666370"/>
+
+    <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">fg</text>
+    <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">subtext1</text>
+    <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">subtext2</text>
+    <text x="210" y="55" fill="#666370" font-family="monospace" font-size="10">subtext3</text>
+    <text x="280" y="55" fill="#666370" font-family="monospace" font-size="10">subtext4</text>
+  </g>
+
+  <!-- Colors -->
+  <g transform="translate(40, 280)">
+    <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Colors</text>
+    <rect x="0" y="10" width="60" height="30" fill="#242427"/>
+    <rect x="70" y="10" width="60" height="30" fill="#e57099"/>
+    <rect x="140" y="10" width="60" height="30" fill="#88b099"/>
+    <rect x="210" y="10" width="60" height="30" fill="#d990be"/>
+    <rect x="280" y="10" width="60" height="30" fill="#deb094"/>
+    <rect x="350" y="10" width="60" height="30" fill="#a498c7"/>
+    <rect x="420" y="10" width="60" height="30" fill="#ed8f89"/>
+    <rect x="490" y="10" width="60" height="30" fill="#8a9acd"/>
+    <rect x="560" y="10" width="60" height="30" fill="#7eadb2"/>
+
+    <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">black</text>
+    <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">red</text>
+    <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">green</text>
+    <text x="210" y="55" fill="#666370" font-family="monospace" font-size="10">magenta</text>
+    <text x="280" y="55" fill="#666370" font-family="monospace" font-size="10">yellow</text>
+    <text x="350" y="55" fill="#666370" font-family="monospace" font-size="10">purple</text>
+    <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">orange</text>
+    <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">blue</text>
+    <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">cyan</text>
+  </g>
+
+  <!-- Bright Colors -->
+  <g transform="translate(40, 380)">
+    <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Bright Colors</text>
+    <rect x="0" y="10" width="60" height="30" fill="#3a3a3e"/>
+    <rect x="70" y="10" width="60" height="30" fill="#f19db9"/>
+    <rect x="140" y="10" width="60" height="30" fill="#b1d1bd"/>
+    <rect x="210" y="10" width="60" height="30" fill="#eecdb8"/>
+    <rect x="280" y="10" width="60" height="30" fill="#bdb6da"/>
+    <rect x="350" y="10" width="60" height="30" fill="#eebada"/>
+    <rect x="420" y="10" width="60" height="30" fill="#f9bbb0"/>
+    <rect x="490" y="10" width="60" height="30" fill="#aabbdf"/>
+    <rect x="560" y="10" width="60" height="30" fill="#9cc8cc"/>
+
+    <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">br_black</text>
+    <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">br_red</text>
+    <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">br_green</text>
+    <text x="210" y="55" fill="#666370" font-family="monospace" font-size="10">br_yellow</text>
+    <text x="280" y="55" fill="#666370" font-family="monospace" font-size="10">br_purple</text>
+    <text x="350" y="55" fill="#666370" font-family="monospace" font-size="10">br_magenta</text>
+    <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">br_orange</text>
+    <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">br_blue</text>
+    <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">br_cyan</text>
+  </g>
+</svg>
