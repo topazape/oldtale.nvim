@@ -1,4 +1,4 @@
-local p = require("oldworld.palette")
+local p = require("oldtale.palette")
 
 return {
     GitSignsAdd = { fg = p.green },
