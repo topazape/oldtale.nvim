@@ -1,0 +1,32 @@
+[colors]
+foreground = "#b4b1ba"
+background = "#121213"
+cursor_bg = "#aaa7b0"
+cursor_border = "#aaa7b0"
+cursor_fg = "#121213"
+selection_bg = "#363639"
+selection_fg = "#b4b1ba"
+scrollbar_thumb = "#504d54"
+split = "#504d54"
+
+ansi = [
+  "#242427",
+  "#e57099",
+  "#88b099",
+  "#deb094",
+  "#8a9acd",
+  "#d990be",
+  "#7eadb2",
+  "#b4b1ba",
+]
+
+brights = [
+  "#3a3a3e",
+  "#f19db9",
+  "#b1d1bd",
+  "#eecdb8",
+  "#aabbdf",
+  "#eebada",
+  "#9cc8cc",
+  "#c9c7cd",
+]
