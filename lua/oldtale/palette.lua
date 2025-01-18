@@ -15,15 +15,15 @@ local palette = {
 	subtext3 = "#868390",
 	subtext4 = "#666370",
 
-  black   = "#242427",
-  red     = "#e57099",
-  green   = "#88b099",
-  magenta = "#d990be",
-  yellow  = "#deb094",
-  purple  = "#a498c7",
-  orange  = "#ed8f89",
-  blue    = "#8a9acd",
-  cyan    = "#7eadb2",
+	black   = "#242427",
+	red     = "#e57099",
+	green   = "#88b099",
+	magenta = "#d990be",
+	yellow  = "#deb094",
+	purple  = "#a498c7",
+	orange  = "#ed8f89",
+	blue    = "#8a9acd",
+	cyan    = "#7eadb2",
 
 	bright_black   = "#3a3a3e",
 	bright_red     = "#f19db9",
@@ -35,6 +35,15 @@ local palette = {
 	bright_blue    = "#aabbdf",
 	bright_cyan    = "#9cc8cc",
 
+	-- semi-transparent effect
+	blend_red     = "#1d1718",
+	blend_green   = "#171a18",
+	blend_yellow  = "#1a1917",
+	blend_blue    = "#17181d",
+	blend_magenta = "#1d171d",
+	blend_purple  = "#19171d",
+	blend_cyan    = "#17191a",
+	blend_orange  = "#1d1817",
 	none = "NONE",
 }
 
