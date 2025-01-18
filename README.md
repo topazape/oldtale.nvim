@@ -4,13 +4,13 @@ OldTale is a Neovim colorscheme focused on visual comfort, inspired by OldWorld.
 
 The reason for creating this new theme is that, although I deeply appreciated the visual comfort provided by OldWorld.nvim, I wanted to make small adjustments to better suit my personal preferences, especially in terms of syntax highlighting and UI elements.
 
-## 📷 Preview
-
-<img src="./assets/screenshot.png" alt="screenshot">
-
 ## 🎨 Palette
 
 <img src="./assets/palette.svg" alt="OldTale color palette">
+
+## 📷 Preview
+
+<img src="./assets/screenshot.png" alt="screenshot">
 
 ## 📦 Installation
 
