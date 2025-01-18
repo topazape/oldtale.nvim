@@ -26,14 +26,14 @@ local palette = {
 	cyan    = "#7eadb2",
 
 	bright_black   = "#3a3a3e",
-	bright_red     = "#f19db9",
-	bright_green   = "#b1d1bd",
-	bright_yellow  = "#eecdb8",
-	bright_purple  = "#bdb6da",
-	bright_magenta = "#eebada",
-	bright_orange  = "#f9bbb0",
-	bright_blue    = "#aabbdf",
-	bright_cyan    = "#9cc8cc",
+	bright_red     = "#e889a9",
+	bright_green   = "#9bc3ab",
+	bright_yellow  = "#e6b9a3",
+	bright_purple  = "#b0a7d1",
+	bright_magenta = "#e4a6d0",
+	bright_orange  = "#f2a99c",
+	bright_blue    = "#9dadd5",
+	bright_cyan    = "#8cbcc0",
 
 	-- semi-transparent effect
 	blend_red     = "#1d1718",
