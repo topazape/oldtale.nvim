@@ -50,22 +50,4 @@ return {
 
 	Underlined = { underline = true }, -- text that stands out, HTML links
 	Error = { fg = p.red }, -- any erroneous construct
-
-	-- HTML
-	htmlArg = { fg = p.yellow, italic = true }, -- attributes
-	htmlEndTag = { fg = p.subtext3 }, -- end tag />
-	htmlTitle = { fg = p.fg }, -- title tag text
-	htmlTag = { fg = p.subtext3 }, -- tag delimiters
-	htmlTagN = { fg = p.blue },
-	htmlTagName = { fg = p.blue }, -- tag text
-
-	-- Diff
-	diffAdded = { fg = p.green },
-	diffRemoved = { fg = p.red },
-	diffChanged = { fg = p.yellow },
-	diffOldFile = { fg = p.subtext2 },
-	diffNewFile = { fg = p.fg },
-	diffFile = { fg = p.blue },
-	diffLine = { fg = p.subtext3 },
-	diffIndexLine = { fg = p.magenta },
 }
