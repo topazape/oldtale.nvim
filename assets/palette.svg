@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
   <!-- Background -->
-  <rect width="800" height="550" fill="#141415"/>
+  <rect width="800" height="600" fill="#141415"/>
 
   <!-- Title -->
   <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">Color Palette</text><!-- Backgrounds & Grays -->
