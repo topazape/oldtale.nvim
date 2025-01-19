@@ -91,8 +91,8 @@
   <g transform="translate(40, 380)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Bright Colors</text>
     <rect x="0" y="10" width="60" height="30" fill="#3a3a3e"/>
-    <rect x="70" y="10" width="60" height="30" fill="#f2a99c"/>
-    <rect x="140" y="10" width="60" height="30" fill="#e889a9"/>
+    <rect x="70" y="10" width="60" height="30" fill="#efb4af"/>
+    <rect x="140" y="10" width="60" height="30" fill="#e996b0"/>
     <rect x="210" y="10" width="60" height="30" fill="#e4a6d0"/>
     <rect x="280" y="10" width="60" height="30" fill="#b0a7d1"/>
     <rect x="350" y="10" width="60" height="30" fill="#9dadd5"/>
@@ -109,8 +109,8 @@
     <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">bright_green</text>
     <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">bright_yellow</text>
     <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#3a3a3e</text>
-    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#f2a99c</text>
-    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e889a9</text>
+    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#efb4af</text>
+    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e996b0</text>
     <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#e4a6d0</text>
     <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#b0a7d1</text>
     <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#9dadd5</text>
