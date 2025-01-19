@@ -21,6 +21,7 @@ local default_config = {
 		noice = false,
 		notify = false,
 		rainbow_delimiters = false,
+		saga = true,
 		telescope = false,
 		treesitter = false,
 	},
