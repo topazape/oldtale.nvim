@@ -58,15 +58,15 @@
   <!-- Colors -->
   <g transform="translate(40, 280)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Colors</text>
-    <rect x="0" y="10" width="60" height="30" fill="#242427"/>
-    <rect x="70" y="10" width="60" height="30" fill="#ed8f89"/>
-    <rect x="140" y="10" width="60" height="30" fill="#e57099"/>
-    <rect x="210" y="10" width="60" height="30" fill="#d990be"/>
-    <rect x="280" y="10" width="60" height="30" fill="#a498c7"/>
-    <rect x="350" y="10" width="60" height="30" fill="#8a9acd"/>
-    <rect x="420" y="10" width="60" height="30" fill="#7eadb2"/>
-    <rect x="490" y="10" width="60" height="30" fill="#88b099"/>
-    <rect x="560" y="10" width="60" height="30" fill="#deb094"/>
+    <rect x="0" y="10" width="60" height="30" fill="#202023"/>
+    <rect x="70" y="10" width="60" height="30" fill="#e98780"/>
+    <rect x="140" y="10" width="60" height="30" fill="#e26590"/>
+    <rect x="210" y="10" width="60" height="30" fill="#d486b6"/>
+    <rect x="280" y="10" width="60" height="30" fill="#9c8fc1"/>
+    <rect x="350" y="10" width="60" height="30" fill="#8292c7"/>
+    <rect x="420" y="10" width="60" height="30" fill="#76a5aa"/>
+    <rect x="490" y="10" width="60" height="30" fill="#80a891"/>
+    <rect x="560" y="10" width="60" height="30" fill="#d8a88c"/>
     <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">black</text>
     <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">orange</text>
     <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">red</text>
@@ -76,15 +76,15 @@
     <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">cyan</text>
     <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">green</text>
     <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">yellow</text>
-    <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#242427</text>
-    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#ed8f89</text>
-    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e57099</text>
-    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#d990be</text>
-    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#a498c7</text>
-    <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#8a9acd</text>
-    <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#7eadb2</text>
-    <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#88b099</text>
-    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#deb094</text>
+    <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#202023</text>
+    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#e98780</text>
+    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e26590</text>
+    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#d486b6</text>
+    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#9c8fc1</text>
+    <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#8292c7</text>
+    <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#76a5aa</text>
+    <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#80a891</text>
+    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#d8a88c</text>
     
   </g>
   <!-- Bright Colors -->
