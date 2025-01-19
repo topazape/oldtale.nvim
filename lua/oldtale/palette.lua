@@ -37,15 +37,15 @@ local palette = {
 
 	-- semi-transparent effect
 
-  blend_black   = "#171717",
-	blend_orange  = "#1d1817",
-	blend_red     = "#1d1718",
-	blend_magenta = "#1d171d",
-	blend_purple  = "#19171d",
-	blend_blue    = "#17181d",
-	blend_cyan    = "#17191a",
-	blend_green   = "#171a18",
-	blend_yellow  = "#1a1917",
+	blend_black   = "#191919",
+	blend_orange  = "#1f1a19",
+	blend_red     = "#1f191a",
+	blend_magenta = "#1f191f",
+	blend_purple  = "#1b191f",
+	blend_blue    = "#191a1f",
+	blend_cyan    = "#191b1c",
+	blend_green   = "#191c1a",
+	blend_yellow  = "#1c1b19",
 
 	none = "NONE",
 }
