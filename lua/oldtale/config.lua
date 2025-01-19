@@ -14,7 +14,6 @@ local default_config = {
 		blink = false,
 		cmp = false,
 		gitsigns = false,
-		indent_blankline = false,
 		lazy = false,
 		lsp = false,
 		markdown = false,

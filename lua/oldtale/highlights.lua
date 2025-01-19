@@ -9,7 +9,6 @@ local integrations_highlights = {
 	blink = require("oldtale.groups.integrations.blink"),
 	cmp = require("oldtale.groups.integrations.cmp"),
 	gitsigns = require("oldtale.groups.integrations.gitsigns"),
-	indent_blankline = require("oldtale.groups.integrations.indent_blankline"),
 	lazy = require("oldtale.groups.integrations.lazy"),
 	lsp = require("oldtale.groups.integrations.lsp"),
 	markdown = require("oldtale.groups.integrations.markdown"),
