@@ -33,7 +33,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#363639</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#3d3b40</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#504d54</text>
-
+    
   </g>
   <!-- Foregrounds -->
   <g transform="translate(40, 180)">
@@ -53,7 +53,7 @@
     <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#9a97a0</text>
     <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#868390</text>
     <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#666370</text>
-
+    
   </g>
   <!-- Colors -->
   <g transform="translate(40, 280)">
@@ -85,7 +85,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#ed8f89</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#8a9acd</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#7eadb2</text>
-
+    
   </g>
   <!-- Bright Colors -->
   <g transform="translate(40, 380)">
@@ -117,7 +117,36 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#f2a99c</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#9dadd5</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#8cbcc0</text>
-
+    
   </g>
-
+  <!-- Blend Colors -->
+  <g transform="translate(40, 480)">
+    <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Blend Colors</text>
+    <rect x="0" y="10" width="60" height="30" fill="#1d1718"/>
+    <rect x="70" y="10" width="60" height="30" fill="#171a18"/>
+    <rect x="140" y="10" width="60" height="30" fill="#1a1917"/>
+    <rect x="210" y="10" width="60" height="30" fill="#17181d"/>
+    <rect x="280" y="10" width="60" height="30" fill="#1d171d"/>
+    <rect x="350" y="10" width="60" height="30" fill="#19171d"/>
+    <rect x="420" y="10" width="60" height="30" fill="#17191a"/>
+    <rect x="490" y="10" width="60" height="30" fill="#1d1817"/>
+    <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">blend_red</text>
+    <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">blend_green</text>
+    <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">blend_yellow</text>
+    <text x="210" y="55" fill="#666370" font-family="monospace" font-size="10">blend_blue</text>
+    <text x="280" y="55" fill="#666370" font-family="monospace" font-size="10">blend_magenta</text>
+    <text x="350" y="55" fill="#666370" font-family="monospace" font-size="10">blend_purple</text>
+    <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">blend_cyan</text>
+    <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">blend_orange</text>
+    <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#1d1718</text>
+    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#171a18</text>
+    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#1a1917</text>
+    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#17181d</text>
+    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#1d171d</text>
+    <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#19171d</text>
+    <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#17191a</text>
+    <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#1d1817</text>
+    
+  </g>
+  
 </svg>
