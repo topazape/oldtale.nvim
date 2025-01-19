@@ -66,6 +66,9 @@ local default_config = {
 }
 ```
 
+> [!Note]
+> All plugin integrations are disabled by default. Make sure to enable the integrations you want to use in your configuration.
+
 To customize the theme, pass your configuration like this:
 
 ```lua
