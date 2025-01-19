@@ -11,11 +11,11 @@ split = "#504d54"
 
 ansi = [
   "#202023", # black
-  "#e26590", # red
+  "#e27598", # red
   "#80a891", # green
-  "#d8a88c", # yellow
+  "#d4a48c", # yellow
   "#8292c7", # blue
-  "#d486b6", # magenta
+  "#d68abc", # magenta
   "#76a5aa", # cyan
   "#b4b1ba", # white
 ]

@@ -59,14 +59,14 @@
   <g transform="translate(40, 280)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Colors</text>
     <rect x="0" y="10" width="60" height="30" fill="#202023"/>
-    <rect x="70" y="10" width="60" height="30" fill="#e98780"/>
-    <rect x="140" y="10" width="60" height="30" fill="#e26590"/>
-    <rect x="210" y="10" width="60" height="30" fill="#d486b6"/>
-    <rect x="280" y="10" width="60" height="30" fill="#9c8fc1"/>
+    <rect x="70" y="10" width="60" height="30" fill="#e89890"/>
+    <rect x="140" y="10" width="60" height="30" fill="#e27598"/>
+    <rect x="210" y="10" width="60" height="30" fill="#d68abc"/>
+    <rect x="280" y="10" width="60" height="30" fill="#9a8dbf"/>
     <rect x="350" y="10" width="60" height="30" fill="#8292c7"/>
     <rect x="420" y="10" width="60" height="30" fill="#76a5aa"/>
     <rect x="490" y="10" width="60" height="30" fill="#80a891"/>
-    <rect x="560" y="10" width="60" height="30" fill="#d8a88c"/>
+    <rect x="560" y="10" width="60" height="30" fill="#d4a48c"/>
     <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">black</text>
     <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">orange</text>
     <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">red</text>
@@ -77,14 +77,14 @@
     <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">green</text>
     <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">yellow</text>
     <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#202023</text>
-    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#e98780</text>
-    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e26590</text>
-    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#d486b6</text>
-    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#9c8fc1</text>
+    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#e89890</text>
+    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#e27598</text>
+    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#d68abc</text>
+    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#9a8dbf</text>
     <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#8292c7</text>
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#76a5aa</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#80a891</text>
-    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#d8a88c</text>
+    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#d4a48c</text>
     
   </g>
   <!-- Bright Colors -->
