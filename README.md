@@ -1,5 +1,7 @@
 # OldTale.nvim
 
+<img src="./assets/logo.svg" alt="logo">
+
 OldTale is a Neovim colorscheme focused on visual comfort, inspired by [OldWorld.nvim](https://github.com/dgox16/oldworld.nvim), with subtle adjustments tailored to personal preferences. While maintaining the gentle color palette of [OldWorld.nvim](https://github.com/dgox16/oldworld.nvim), it slightly increases the contrast to enhance readability and eye comfort, without sacrificing the soothing nature of the theme. Additionally, OldTale inherits the essence of [mellow.nvim](https://github.com/mellow-theme/mellow.nvim), while making fine-tuned adjustments to syntax highlighting and UI elements.
 
 The reason for creating this new theme is that, although I deeply appreciated the visual comfort provided by [OldWorld.nvim](https://github.com/dgox16/oldworld.nvim), I wanted to make small adjustments to better suit my personal preferences, especially in terms of syntax highlighting and UI elements.

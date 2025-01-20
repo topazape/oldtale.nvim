@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+  <!-- Background -->
+  <rect x="0" y="0" width="240" height="80" fill="#141415"/>
+  
+  <!-- OT Symbol Group -->
+  <g transform="translate(30, 26)">
+    <!-- O -->
+    <path d="M0 4 
+             A12 12 0 0 1 12 16
+             A12 12 0 0 1 0 28
+             A12 12 0 0 1 -12 16
+             A12 12 0 0 1 0 4"
+          fill="none"
+          stroke="#9a8dbf"
+          stroke-width="2"/>
+          
+    <!-- T -->
+    <path d="M20 4 L44 4 M32 4 L32 28"
+          stroke="#d68abc"
+          stroke-width="2"
+          stroke-linecap="round"/>
+  </g>
+  
+  <!-- Main text -->
+  <text x="90" y="48" 
+        font-family="ui-monospace, monospace" 
+        font-size="32" 
+        fill="#b4b1ba" 
+        letter-spacing="2">oldtale</text>
+</svg>
