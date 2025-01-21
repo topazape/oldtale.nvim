@@ -3,7 +3,7 @@
   <rect width="800" height="600" fill="#141415"/>
 
   <!-- Title -->
-  <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">OldTale Color Palette</text><!-- Backgrounds & Grays -->
+  <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">oldtale Color Palette</text><!-- Backgrounds & Grays -->
   <g transform="translate(40, 80)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Backgrounds &amp; Grays</text>
     <rect x="0" y="10" width="60" height="30" fill="#121213"/>
@@ -33,7 +33,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#363639</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#3d3b40</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#504d54</text>
-    
+
   </g>
   <!-- Foregrounds -->
   <g transform="translate(40, 180)">
@@ -53,7 +53,7 @@
     <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#9a97a0</text>
     <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#868390</text>
     <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#666370</text>
-    
+
   </g>
   <!-- Colors -->
   <g transform="translate(40, 280)">
@@ -85,7 +85,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#76a5aa</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#80a891</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#d4a48c</text>
-    
+
   </g>
   <!-- Bright Colors -->
   <g transform="translate(40, 380)">
@@ -117,7 +117,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#8cbcc0</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#9bc3ab</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#e6b9a3</text>
-    
+
   </g>
   <!-- Blend Colors -->
   <g transform="translate(40, 480)">
@@ -149,7 +149,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#191b1c</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#191c1a</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#1c1b19</text>
-    
+
   </g>
-  
+
 </svg>
