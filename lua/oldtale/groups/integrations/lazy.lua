@@ -25,7 +25,7 @@ return {
 	LazyValue = { fg = p.green },
 	LazySpecial = { fg = p.purple },
 	LazyDir = { fg = p.cyan },
-	LazyUrl = { fg = p.cyan },
+	LazyUrl = { fg = p.cyan, underline = true },
 	LazyLocal = { fg = p.yellow },
 
 	LazyProgressDone = { fg = p.green },
