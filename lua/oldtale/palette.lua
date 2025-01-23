@@ -36,7 +36,6 @@ local palette = {
 	bright_yellow  = "#e6b9a3",
 
 	-- semi-transparent effect
-
 	blend_black   = "#191919",
 	blend_orange  = "#1f1a19",
 	blend_red     = "#1f191a",
