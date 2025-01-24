@@ -31,7 +31,7 @@ return {
 	GitSignsAddPreview = { fg = p.green, bg = p.gray2 },
 	GitSignsDeletePreview = { fg = p.red, bg = p.gray2 },
 
-	GitSignsCurrentLineBlame = { fg = p.subtext3 },
+	GitSignsCurrentLineBlame = { fg = p.subtext4 },
 	GitSignsDeleteVirtLn = { fg = p.red, bg = p.gray2 },
 	GitSignsVirtLnum = { link = "GitSignsDeleteVirtLn" },
 }
