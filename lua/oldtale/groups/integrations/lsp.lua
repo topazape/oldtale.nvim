@@ -39,15 +39,15 @@ return {
 	["@lsp.typemod.variable.injected"] = { link = "@variable" },
 
 	-- Diagnostics
-	DiagnosticOk = { fg = p.green },
-	DiagnosticError = { fg = p.red },
-	DiagnosticWarn = { fg = p.yellow },
-	DiagnosticInfo = { fg = p.blue },
-	DiagnosticHint = { fg = p.magenta },
-	DiagnosticUnderlineError = { fg = p.red, underline = true },
-	DiagnosticUnderlineWarn = { fg = p.yellow, underline = true },
-	DiagnosticUnderlineInfo = { fg = p.blue, underline = true },
-	DiagnosticUnderlineHint = { fg = p.magenta, underline = true },
+	DiagnosticOk = { fg = p.green, bg = p.blend_green },
+	DiagnosticError = { fg = p.red, bg = p.blend_red },
+	DiagnosticWarn = { fg = p.yellow, bg = p.blend_yellow },
+	DiagnosticInfo = { fg = p.blue, bg = p.blend_blue },
+	DiagnosticHint = { fg = p.magenta, bg = p.blend_magenta },
+	DiagnosticUnderlineError = { fg = p.red, bg = p.blend_red, underline = true },
+	DiagnosticUnderlineWarn = { fg = p.yellow, bg = p.blend_yellow, underline = true },
+	DiagnosticUnderlineInfo = { fg = p.blue, bg = p.blend_blue, underline = true },
+	DiagnosticUnderlineHint = { fg = p.magenta, bg = p.blend_magenta, underline = true },
 
 	-- Neovim's built-in language server client
 	LspReferenceWrite = { fg = p.blue, underline = true },
