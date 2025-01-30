@@ -6,7 +6,7 @@ return {
 	SagaNormal = { fg = p.fg, bg = p.bg_dark },
 	SagaToggle = { fg = p.gray6 },
 	SagaBeacon = { bg = p.magenta },
-	SagaVirtLine = { fg = p.gray3 },
+	SagaVirtLine = { fg = p.gray5 },
 	SagaSpinnerTitle = { fg = p.purple },
 	SagaSpinner = { fg = p.purple },
 	SagaText = { fg = p.gray6 },
