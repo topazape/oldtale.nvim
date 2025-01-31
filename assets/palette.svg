@@ -3,7 +3,7 @@
   <rect width="800" height="600" fill="#141415"/>
 
   <!-- Title -->
-  <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">Oldtale Color Palette</text><!-- Backgrounds & Grays -->
+  <text x="40" y="40" fill="#b4b1ba" font-family="sans-serif" font-size="24" font-weight="bold">OldTale Color Palette</text><!-- Backgrounds & Grays -->
   <g transform="translate(40, 80)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Backgrounds &amp; Grays</text>
     <rect x="0" y="10" width="60" height="30" fill="#121213"/>
@@ -33,7 +33,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#363639</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#3d3b40</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#504d54</text>
-
+    
   </g>
   <!-- Foregrounds -->
   <g transform="translate(40, 180)">
@@ -53,7 +53,7 @@
     <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#9a97a0</text>
     <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#868390</text>
     <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#666370</text>
-
+    
   </g>
   <!-- Colors -->
   <g transform="translate(40, 280)">
@@ -85,7 +85,7 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#76a5aa</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#80a891</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#d4a48c</text>
-
+    
   </g>
   <!-- Bright Colors -->
   <g transform="translate(40, 380)">
@@ -117,20 +117,20 @@
     <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#8cbcc0</text>
     <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#9bc3ab</text>
     <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#e6b9a3</text>
-
+    
   </g>
   <!-- Blend Colors -->
   <g transform="translate(40, 480)">
     <text x="0" y="-5" fill="#b4b1ba" font-family="sans-serif" font-size="14">Blend Colors</text>
-    <rect x="0" y="10" width="60" height="30" fill="#191919"/>
-    <rect x="70" y="10" width="60" height="30" fill="#1f1a19"/>
-    <rect x="140" y="10" width="60" height="30" fill="#1f191a"/>
-    <rect x="210" y="10" width="60" height="30" fill="#1f191f"/>
-    <rect x="280" y="10" width="60" height="30" fill="#1b191f"/>
-    <rect x="350" y="10" width="60" height="30" fill="#191a1f"/>
-    <rect x="420" y="10" width="60" height="30" fill="#191b1c"/>
-    <rect x="490" y="10" width="60" height="30" fill="#191c1a"/>
-    <rect x="560" y="10" width="60" height="30" fill="#1c1b19"/>
+    <rect x="0" y="10" width="60" height="30" fill="#202020"/>
+    <rect x="70" y="10" width="60" height="30" fill="#261e1d"/>
+    <rect x="140" y="10" width="60" height="30" fill="#261d1e"/>
+    <rect x="210" y="10" width="60" height="30" fill="#261d26"/>
+    <rect x="280" y="10" width="60" height="30" fill="#201d26"/>
+    <rect x="350" y="10" width="60" height="30" fill="#1d1e26"/>
+    <rect x="420" y="10" width="60" height="30" fill="#1d2222"/>
+    <rect x="490" y="10" width="60" height="30" fill="#1d231e"/>
+    <rect x="560" y="10" width="60" height="30" fill="#232019"/>
     <text x="0" y="55" fill="#666370" font-family="monospace" font-size="10">blend_black</text>
     <text x="70" y="55" fill="#666370" font-family="monospace" font-size="10">blend_orange</text>
     <text x="140" y="55" fill="#666370" font-family="monospace" font-size="10">blend_red</text>
@@ -140,16 +140,16 @@
     <text x="420" y="55" fill="#666370" font-family="monospace" font-size="10">blend_cyan</text>
     <text x="490" y="55" fill="#666370" font-family="monospace" font-size="10">blend_green</text>
     <text x="560" y="55" fill="#666370" font-family="monospace" font-size="10">blend_yellow</text>
-    <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#191919</text>
-    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#1f1a19</text>
-    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#1f191a</text>
-    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#1f191f</text>
-    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#1b191f</text>
-    <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#191a1f</text>
-    <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#191b1c</text>
-    <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#191c1a</text>
-    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#1c1b19</text>
-
+    <text x="0" y="70" fill="#666370" font-family="monospace" font-size="10">#202020</text>
+    <text x="70" y="70" fill="#666370" font-family="monospace" font-size="10">#261e1d</text>
+    <text x="140" y="70" fill="#666370" font-family="monospace" font-size="10">#261d1e</text>
+    <text x="210" y="70" fill="#666370" font-family="monospace" font-size="10">#261d26</text>
+    <text x="280" y="70" fill="#666370" font-family="monospace" font-size="10">#201d26</text>
+    <text x="350" y="70" fill="#666370" font-family="monospace" font-size="10">#1d1e26</text>
+    <text x="420" y="70" fill="#666370" font-family="monospace" font-size="10">#1d2222</text>
+    <text x="490" y="70" fill="#666370" font-family="monospace" font-size="10">#1d231e</text>
+    <text x="560" y="70" fill="#666370" font-family="monospace" font-size="10">#232019</text>
+    
   </g>
-
+  
 </svg>
