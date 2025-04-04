@@ -15,6 +15,7 @@ local integrations_highlights = {
 	mason = require("oldtale.groups.integrations.mason"),
 	noice = require("oldtale.groups.integrations.noice"),
 	notify = require("oldtale.groups.integrations.notify"),
+	octo = require("oldtale.groups.integrations.octo"),
 	rainbow_delimiters = require("oldtale.groups.integrations.rainbow_delimiters"),
 	saga = require("oldtale.groups.integrations.saga"),
 	telescope = require("oldtale.groups.integrations.telescope"),

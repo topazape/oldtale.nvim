@@ -57,6 +57,7 @@ local default_config = {
 		mason = false,
 		noice = false,
 		notify = false,
+		octo = false,
 		rainbow_delimiters = false,
 		saga = false,
 		telescope = false,
