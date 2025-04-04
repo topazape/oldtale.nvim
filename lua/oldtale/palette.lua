@@ -45,6 +45,11 @@ local palette = {
 	blend_green   = "#191c1a",
 	blend_yellow  = "#1c1b19",
 
+	diff_red       = "#2a2123",
+	diff_blue      = "#20222a",
+	diff_green     = "#202824",
+	diff_yellow    = "#272320",
+
 	none = "NONE",
 }
 

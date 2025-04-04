@@ -11,10 +11,10 @@ return {
 	Directory = { fg = p.purple }, -- directory names (and other special names in listings)
 
 	-- Diff highlighting
-	DiffAdd = { bg = p.gray1, fg = p.bright_green }, -- diff mode: Added line |diff.txt|
-	DiffChange = { bg = p.gray1, fg = p.bright_yellow }, -- diff mode: Changed line |diff.txt|
-	DiffDelete = { bg = p.gray1, fg = p.bright_red }, -- diff mode: Deleted line |diff.txt|
-	DiffText = { bg = p.gray2, fg = p.bright_yellow }, -- diff mode: Changed text within a changed line |diff.txt|
+	DiffAdd = { bg = p.diff_green }, -- diff mode: Added line |diff.txt|
+	DiffChange = { bg = p.diff_yellow }, -- diff mode: Changed line |diff.txt|
+	DiffDelete = { bg = p.diff_red, fg = p.red }, -- diff mode: Deleted line |diff.txt|
+	DiffText = { bg = p.diff_yellow }, -- diff mode: Changed text within a changed line |diff.txt|
 
 	-- Editor UI elements
 	EndOfBuffer = { fg = p.bg }, -- filler lines (~) after the end of the buffer
