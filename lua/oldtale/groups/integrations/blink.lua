@@ -2,7 +2,7 @@ local p = require("oldtale.palette")
 
 return {
 	BlinkCmpMenu = { fg = p.subtext1, bg = p.bg_dark },
-	BlinkCmpMenuBorder = { fg = p.gray3, bg = p.bg_dark },
+	BlinkCmpMenuBorder = { fg = p.gray6, bg = p.bg_dark },
 	BlinkCmpMenuSelection = { fg = p.fg, bg = p.gray2 },
 
 	BlinkCmpScrollBarThumb = { fg = p.gray4, bg = p.gray2 },
@@ -18,12 +18,12 @@ return {
 	BlinkCmpGhostText = { fg = p.subtext4, bg = p.bg_dark },
 
 	BlinkCmpDoc = { fg = p.subtext1, bg = p.bg_dark },
-	BlinkCmpDocBorder = { fg = p.gray3, bg = p.bg_dark },
+	BlinkCmpDocBorder = { fg = p.gray6, bg = p.bg_dark },
 	BlinkCmpDocSeparator = { fg = p.gray3, bg = p.bg_dark },
 	BlinkCmpDocCursorLine = { bg = p.gray2 },
 
 	BlinkCmpSignatureHelp = { fg = p.subtext1, bg = p.bg_dark },
-	BlinkCmpSignatureHelpBorder = { fg = p.gray3, bg = p.bg_dark },
+	BlinkCmpSignatureHelpBorder = { fg = p.gray6, bg = p.bg_dark },
 	BlinkCmpSignatureHelpActiveParameter = { fg = p.blue, bg = p.gray2, bold = true },
 
 	BlinkCmpKindClass = { fg = p.purple },
