@@ -18,6 +18,7 @@ local integrations_highlights = {
 	octo = require("oldtale.groups.integrations.octo"),
 	rainbow_delimiters = require("oldtale.groups.integrations.rainbow_delimiters"),
 	saga = require("oldtale.groups.integrations.saga"),
+	snacks = require("oldtale.groups.integrations.snacks"),
 	telescope = require("oldtale.groups.integrations.telescope"),
 	treesitter = require("oldtale.groups.integrations.treesitter"),
 }

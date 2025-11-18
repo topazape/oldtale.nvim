@@ -23,6 +23,7 @@ local default_config = {
 		octo = false,
 		rainbow_delimiters = false,
 		saga = false,
+		snacks = false,
 		telescope = false,
 		treesitter = false,
 	},
