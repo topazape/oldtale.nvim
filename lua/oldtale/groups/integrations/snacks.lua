@@ -46,7 +46,7 @@ return {
 
 	-- Indent
 	SnacksIndent = { fg = p.gray5 },
-	SnacksIndentScope = { fg = p.blue },
+	SnacksIndentScope = { fg = p.purple },
 
 	-- Zen
 	SnacksZenIcon = { fg = p.purple },
