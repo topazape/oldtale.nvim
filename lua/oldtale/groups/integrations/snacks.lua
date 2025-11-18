@@ -57,6 +57,9 @@ return {
 	SnacksInputTitle = { fg = p.yellow },
 
 	-- Picker
+	SnacksPickerDir = { fg = p.subtext4 },
+	SnacksPickerFile = { fg = p.subtext2 },
+	SnacksPickerMatch = { fg = p.red, bold = true },
 	SnacksPickerInputBorder = { fg = p.blue, bg = p.bg_dark },
 	SnacksPickerInputTitle = { fg = p.blue, bg = p.bg_dark },
 	SnacksPickerBoxTitle = { fg = p.blue, bg = p.bg_dark },
