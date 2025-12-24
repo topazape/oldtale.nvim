@@ -67,6 +67,15 @@ return {
 	SnacksPickerToggle = { bg = p.gray1, fg = p.blue },
 	SnacksPickerPickWinCurrent = { fg = p.fg, bg = p.magenta, bold = true },
 	SnacksPickerPickWin = { fg = p.fg, bg = p.gray2, bold = true },
+	SnacksPickerGitStatusAdded = { fg = p.green },
+	SnacksPickerGitStatusCopied = { fg = p.cyan },
+	SnacksPickerGitStatusDeleted = { fg = p.red },
+	SnacksPickerGitStatusIgnored = { fg = p.subtext4 },
+	SnacksPickerGitStatusModified = { fg = p.yellow },
+	SnacksPickerGitStatusRenamed = { fg = p.purple },
+	SnacksPickerGitStatusStaged = { fg = p.bright_green, bold = true },
+	SnacksPickerGitStatusUnmerged = { fg = p.bright_red, bold = true },
+	SnacksPickerGitStatusUntracked = { fg = p.bright_cyan },
 
 	-- GitHub Integration
 	SnacksGhLabel = { fg = p.blue, bold = true },
